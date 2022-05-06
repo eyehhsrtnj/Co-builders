@@ -10,7 +10,7 @@ Ecological co-builders should submit qualification review via email DeGa.OOC@gma
 
 The application process is as follows:
 
- - Pay the hip001 proposal administrative costs: $500
+ - Pay the kip001 proposal administrative costs: $500
  - Copy in the Application Template 
  - Complete relevant information and submit relevant certificate
  - Audit phase 1: it is expected to complete within 3-5 workdays by DeGa’s OOC members
