@@ -14,7 +14,7 @@ The application process is as follows:
  - Copy in the Application Template 
  - Complete relevant information and submit relevant certificate
  - Audit phase 1: it is expected to complete within 3-5 workdays by DeGa’s OOC members
- - After approval 1, pay $1500 for the audition of application code (demo)
+ - Offer the link of your application or game to OOC members to experience the demo
  - Audit phase 2: it is expected to complete within 5-7 workdays by DeGa’s OOC members
  - After approval 2, the OOC will send an e-mail to confirm the purchase qualification
  - Pay the donation fee for DeGa: $1500
