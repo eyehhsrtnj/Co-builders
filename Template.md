@@ -1,6 +1,13 @@
 ### Please copy this template.md (do not edit the template directly)
-# Company Name
-# Understanding & Support
+## Company Name
+Application to become the ecological co-builder as per HIP001. The submission of a HIP001 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
+
+## About Company (required)
+ - What is your company name?
+ - How long has the company been in business?
+ - What brought you to the Helium Network?
+
+## Understanding & Support
 Concept: Ecological co-builders need to  have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
 # Tech Require
 Technology: Ecological co-builders need to have certain technical research and development capabilities, such as the ability to write and deploy smart contracts in Ethereum, and the ability to build servers. K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications.
