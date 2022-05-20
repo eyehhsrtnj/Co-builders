@@ -4,10 +4,9 @@ Application to become the ecological co-builder as per KIP001. The submission of
 
 ## About Company (required)
  - What is your company name?
+ - What is your business nature?
  - How long has the company been in business?
  - What brought you to the K-play platform?
- - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
- - How many people in your community? 
 
 ## About Tech (required)
 
@@ -21,13 +20,17 @@ K-play will provide independent docking of API interfaces for ecological co-buil
 
 You need to have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
 
-## Proof Of Identity
+## Proof of Identity
 K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
 
 ## Capital & Plan (required)
  - How much money do you have on-hand, and how much do you have access to?
  - What kind of app or game do you plan to develop?
  - How much money do you plan to develop the app or game?
+
+## About Community (required)
+ - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
+ - How many people in your community? 
  - What community scale is expected in the first three months? (how many people)
 
 ## Risks & Challenges (required)
