@@ -6,17 +6,26 @@ Application to become the ecological co-builder as per HIP001. The submission of
  - What is your company name?
  - How long has the company been in business?
  - What brought you to the K-play platform?
+ - Does your team have any experience of operating active community which is about blockchain, DeFi and metaverse?
+ - How many people in your community? 
 
-## Understanding & Support
-Concept: Ecological co-builders need to  have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
+## About Tech (required)
+
+Ecological co-builders need to  have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
+
+ - Does your team have the ability to write and deploy smart contracts in Ethereum? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
+ - Does your team have the ability to build servers? Please provide relevant supporting materials via email DeGa.OOC@gmail.com.
+ - What apps have your team developed or worked on?
+ - What games have your team developed or worked on?
+ - Would you mind to provide a test account for auditing?
+
 # Tech Require
 Technology: Ecological co-builders need to have certain technical research and development capabilities, such as the ability to write and deploy smart contracts in Ethereum, and the ability to build servers. K-play will provide independent docking of API interfaces for ecological co-builders which can develop applications (games) by their own ability, so as to actively participate in the construction of K-play’s ecological applications.
 # Capital Power
 Capital: Ecological co-builders need to have certain economic strength, the ability of investment and value analysis and even the profitability. They also need to prove the invested funds is legal as the official not allows the pre-sale and crowdfunding.
 # Identity
 Identity: K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
-# Community scale
-Community: Ecological co-builders need the experience of operating active community which is about blockchain, DeFi, metaverse, etc.
+
 ## Application Materials - Audit 1
  - Applicant
  - Purchase amount
