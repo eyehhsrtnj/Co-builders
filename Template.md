@@ -1,6 +1,6 @@
 ### Please copy this template.md (do not edit the template directly)
 # Company Name
-Application to become the ecological co-builder as per HIP001. The submission of a HIP001 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
+Application to become the ecological co-builder as per KIP001. The submission of a HIP001 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
 
 ## About Company (required)
  - What is your company name?
