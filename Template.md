@@ -5,7 +5,7 @@ Application to become the ecological co-builder as per HIP001. The submission of
 ## About Company (required)
  - What is your company name?
  - How long has the company been in business?
- - What brought you to the Helium Network?
+ - What brought you to the K-play platform?
 
 ## Understanding & Support
 Concept: Ecological co-builders need to  have deep understanding of blockchain, DeFi and metaverse, then follow K-play official’s overall concept and layout of metaverse, DeFi, ecological applications and the floor financial system.
