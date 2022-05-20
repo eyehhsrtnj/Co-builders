@@ -24,7 +24,7 @@ You need to have deep understanding of blockchain, DeFi and metaverse, then foll
 ## Proof Of Identity
 K-play official only supports users to apply as individuals, and official needs the legal qualification documents in validity. Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from K-play official. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application is submitted on GitHub.
 
-## Capital & Plan (require)
+## Capital & Plan (required)
  - How much money do you have on-hand, and how much do you have access to?
  - What kind of app or game do you plan to develop?
  - How much money do you plan to develop the app or game?
