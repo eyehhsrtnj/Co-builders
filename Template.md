@@ -1,8 +1,9 @@
 ### Please copy this template.md (do not edit the template directly)
-# Company Name
+# REAYOU TEC.CO
 Application to become the ecological co-builder as per KIP001. The submission of a KIP001 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
 
 ## Summary
+REAYOU TEC.CO 
 ## About Company (required)
  - What is your company name?
  - What is your business nature?
